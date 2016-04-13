@@ -6,7 +6,6 @@ namespace Modul02
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello World!");
 
 			//Дефиниране на променливи
 
