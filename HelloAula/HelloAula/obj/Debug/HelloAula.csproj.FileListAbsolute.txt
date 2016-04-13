@@ -1,0 +1,6 @@
+D:\Aula\CSharp\PrimeriCsharpTerminal\HelloAula\HelloAula\bin\Debug\HelloAula.exe.config
+D:\Aula\CSharp\PrimeriCsharpTerminal\HelloAula\HelloAula\obj\Debug\HelloAula.csprojResolveAssemblyReference.cache
+D:\Aula\CSharp\PrimeriCsharpTerminal\HelloAula\HelloAula\bin\Debug\HelloAula.exe
+D:\Aula\CSharp\PrimeriCsharpTerminal\HelloAula\HelloAula\bin\Debug\HelloAula.pdb
+D:\Aula\CSharp\PrimeriCsharpTerminal\HelloAula\HelloAula\obj\Debug\HelloAula.exe
+D:\Aula\CSharp\PrimeriCsharpTerminal\HelloAula\HelloAula\obj\Debug\HelloAula.pdb
