@@ -13,8 +13,10 @@ namespace Modul03
             double a = 0, b = 0;
             Console.Write("---> a = "); a = Convert.ToDouble(Console.ReadLine());
             Console.Write("---> b = "); b = Convert.ToDouble(Console.ReadLine());
-
-            Console.WriteLine("---> a/b = " + (a/b));
+           
+            string numberFormat = "C2";
+            
+            Console.WriteLine("---> a/b = " + (a/b).ToString(numberFormat));
         }
     }
 }
